@@ -1,0 +1,9 @@
+#rond {
+    height: 50px;
+    width: 50px;
+    border-radius: 150px;
+    background-color: hotpink;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
